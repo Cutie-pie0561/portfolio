@@ -33,7 +33,7 @@ const ContactMe = () => {
     },
     {
       name: 'Email',
-      url: 'mailto:fareed.ds.ai@gmail.com',
+      url: 'mailto:ruzaifareed.06@gmail',
       icon: '📧',
       color: '#ea4335'
     },
